@@ -1,0 +1,6 @@
+per char = x +- 4
+
+per section = x +- 15
+- per chair = yrot + 2.5 
+
+per row = 
