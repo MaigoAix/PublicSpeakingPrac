@@ -3,4 +3,8 @@ per char = x +- 4
 per section = x +- 15
 - per chair = yrot + 2.5 
 
-per row = 
+per row = y + 1 z + 8.8
+	     
+	     
+platform = pos y + 1 , z + 9.5
+         scale x + 7.5 
